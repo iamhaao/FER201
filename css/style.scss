@@ -75,3 +75,12 @@ body {
     bottom: 0px;
     z-index: 1;
 }
+
+.modal-content {
+    background-color: $background-pale;
+}
+
+.modal-header {
+    background-color: #512DA8;
+    color: #ddd;
+}
